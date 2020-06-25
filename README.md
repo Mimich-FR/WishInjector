@@ -8,5 +8,5 @@ Is a injector buyed on wish i don't know if them works but is fun.
  
  #Exemple
  ```
- java -jar WishInjector.jar mymod.pala .minecraft/mod
+ java -jar WishInjector.jar mymod.jar .minecraft/mod
  ```
